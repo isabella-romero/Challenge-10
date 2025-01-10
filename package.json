@@ -1,0 +1,11 @@
+{
+  "name": "challenge-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "pg": "^8.13.1"
+  }
+
+}
